@@ -1,0 +1,27 @@
+run 1. utils/ext_frame.py
+
+run 1. utils/gen_te_det_info.py
+
+run 1. utils/gen_te_det_info.py
+
+run 2. feat_ext/infos/gen_tr_gt_info.py
+
+run 2. feat_ext/infos/gen_val_gt_info.py
+
+run 2. feat_ext/train.py
+
+run 2. feat_ext/ext_feat_val.py
+
+run 2. feat_ext/calc_val_dist.py
+
+run 2. feat_ext/ext_feat_te.py
+
+run 3. mtsc_v2/mtsc.py
+
+run 4. mtmc/post1.py
+
+run 4. mtmc/post2.py
+
+run 4. mtmc/post3.py
+
+run 4. mtmc/mtmc.py
